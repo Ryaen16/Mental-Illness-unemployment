@@ -3,7 +3,7 @@
 This project explores the relationship between various social, economic, and lifestyle factors and mental health using SQL-based data analysis. The goal is to uncover actionable insights that can guide policy makers, healthcare providers, and mental health professionals.
 
 ## 📁 Database
-The database is named `Research_Case` and contains a single main table: `dataset`.
+The database is named `Research_Case` and contains a single main table: `Mental Illness & unemployment`.
 
 ## 📊 Project Scenarios
 

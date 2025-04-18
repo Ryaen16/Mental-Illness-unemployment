@@ -1,0 +1,335 @@
+Id,employed_at_least_part_time,mental_illness,Education,hospitalized_before_for_mental_illness,days_hospitalized_for_mental_illness,regular_access_to_internet,live_with_parents,gap_in_resume, gaps_in_months,Annual_income_in_USD,unemployed,times_hospitalized_for_mental_illness,Lack_of_concentration,Anxiety,Depression,Mood_swings,Panic_attacks,Compulsive_behavior,Tiredness,Age,Gender,Region,Device_Type
+1,No,No,High School,No,0,Yes,No,Yes,24,35,Yes,0,Yes,Yes,Yes,No,Yes,No,No,30-44,Male,Mountain,Android Phone / Tablet
+2,Yes,Yes,Phd,No,0,Yes,No,No,1,22,No,0,Yes,Yes,Yes,No,Yes,No,Yes,18-29,Male,East South Central,MacOS Desktop / Laptop
+3,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,30-44,Male,Pacific,MacOS Desktop / Laptop
+4,No,No,Undergraduate,No,0,Yes,Yes,Yes,11,0,Yes,0,No,No,No,No,No,No,No,30-44,Male,New England,Windows Desktop / Laptop
+5,Yes,Yes,Undergraduate,Yes,35,Yes,No,Yes,33,32,No,4,Yes,Yes,Yes,Yes,Yes,Yes,Yes,30-44,Male,East North Central,iOS Phone / Tablet
+6,Yes,No,High School,No,0,Yes,Yes,No,0,0,No,0,No,No,No,No,No,No,No,30-44,Male,South Atlantic,Android Phone / Tablet
+7,Yes,No,Undergraduate,No,0,Yes,No,No,0,1,No,0,No,No,No,No,No,No,No,18-29,Male,Middle Atlantic,Windows Desktop / Laptop
+8,Yes,Yes,Undergraduate,No,0,Yes,Yes,No,0,11,No,0,Yes,Yes,Yes,No,Yes,Yes,Yes,18-29,Male,Middle Atlantic,Windows Desktop / Laptop
+9,Yes,No,Undergraduate,No,0,Yes,No,No,0,73,No,0,Yes,Yes,Yes,No,No,No,Yes,30-44,Male,South Atlantic,iOS Phone / Tablet
+10,Yes,Yes,Masters,No,0,Yes,No,No,0,12,No,0,No,Yes,Yes,No,No,No,Yes,30-44,Male,South Atlantic,Android Phone / Tablet
+11,No,No,Undergraduate,No,0,Yes,No,Yes,47,0,Yes,0,No,No,No,No,No,No,No,30-44,Male,Mountain,Windows Desktop / Laptop
+12,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,0,No,0,No,Yes,No,No,No,Yes,No,18-29,Male,Pacific,iOS Phone / Tablet
+13,Yes,Yes,Undergraduate,No,0,Yes,No,Yes,12,50,No,0,No,Yes,Yes,No,No,No,No,30-44,Male,Middle Atlantic,Windows Desktop / Laptop
+14,Yes,No,Masters,No,0,Yes,No,Yes,6,25,No,0,No,No,No,No,No,No,No,30-44,Male,Pacific,Windows Desktop / Laptop
+15,Yes,Yes,High School,No,0,Yes,No,No,0,59,No,0,No,No,Yes,No,No,No,No,30-44,Male,New England,iOS Phone / Tablet
+16,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,Yes,30-44,Male,South Atlantic,iOS Phone / Tablet
+17,No,Yes,Masters,Yes,65,Yes,Yes,Yes,44,48,Yes,43,No,No,Yes,No,Yes,No,No,30-44,Male,East South Central,Android Phone / Tablet
+18,No,No,Undergraduate,No,0,Yes,No,No,0,16,No,0,No,No,No,Yes,No,No,No,18-29,Male,New England,Windows Desktop / Laptop
+19,Yes,Yes,Masters,No,0,Yes,No,No,0,55,No,0,No,Yes,No,No,No,No,Yes,30-44,Male,Mountain,Windows Desktop / Laptop
+20,Yes,No,Phd,No,0,Yes,No,No,21,1,Yes,0,No,No,No,No,No,No,No,30-44,Male,Pacific,Android Phone / Tablet
+21,Yes,Yes,Undergraduate,No,0,No,No,No,0,100,No,0,Yes,Yes,Yes,Yes,No,No,Yes,30-44,Male,Pacific,iOS Phone / Tablet
+22,Yes,Yes,Masters,No,20,No,No,No,32,24,No,19,No,No,No,Yes,No,No,No,18-29,Male,Pacific,Android Phone / Tablet
+23,Yes,No,Undergraduate,No,0,Yes,No,No,0,43,No,0,Yes,Yes,No,No,Yes,No,No,30-44,Male,South Atlantic,Android Phone / Tablet
+24,Yes,No,Undergraduate,No,0,Yes,No,Yes,15,38,No,0,No,No,No,No,No,No,Yes,30-44,Male,West South Central,Windows Desktop / Laptop
+25,Yes,No,Masters,No,0,Yes,No,Yes,18,75,No,0,No,No,No,No,No,No,Yes,30-44,Male,Pacific,Windows Desktop / Laptop
+26,Yes,No,Masters,No,0,Yes,No,No,0,5,No,0,No,No,No,No,No,No,No,30-44,Male,West North Central,MacOS Desktop / Laptop
+27,Yes,No,High School,No,0,Yes,No,No,0,49,No,0,No,Yes,No,No,No,No,No,30-44,Male,South Atlantic,Android Phone / Tablet
+28,Yes,No,Undergraduate,No,0,Yes,No,No,0,45,No,0,No,No,No,No,No,No,Yes,30-44,Male,New England,Android Phone / Tablet
+29,No,No,Undergraduate,No,0,Yes,Yes,No,0,0,Yes,0,No,No,No,No,Yes,No,No,18-29,Male,East North Central,Windows Desktop / Laptop
+30,Yes,No,Masters,No,0,Yes,No,No,0,40,No,0,No,No,No,No,No,No,No,30-44,Male,South Atlantic,iOS Phone / Tablet
+31,No,No,Undergraduate,No,0,Yes,Yes,No,0,0,Yes,0,No,No,No,No,No,No,No,18-29,Male,Mountain,Windows Desktop / Laptop
+32,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,30-44,Male,Pacific,MacOS Desktop / Laptop
+33,No,No,High School,No,0,Yes,No,No,1,25,Yes,0,Yes,No,No,No,No,No,No,18-29,Male,East North Central,iOS Phone / Tablet
+34,Yes,No,High School,No,0,Yes,No,No,0,30,No,0,No,No,No,No,No,No,No,18-29,Male,South Atlantic,iOS Phone / Tablet
+35,Yes,No,Undergraduate,No,0,Yes,No,Yes,36,20,No,1,No,No,No,No,No,No,No,30-44,Male,West North Central,Windows Desktop / Laptop
+36,Yes,Yes,Undergraduate,No,0,Yes,No,Yes,7,38,No,0,Yes,Yes,Yes,No,Yes,Yes,Yes,30-44,Male,East North Central,iOS Phone / Tablet
+37,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,18,No,0,Yes,Yes,Yes,No,No,No,Yes,18-29,Male,South Atlantic,iOS Phone / Tablet
+38,No,No,High School,No,0,Yes,Yes,No,0,0,Yes,0,No,Yes,No,No,No,No,No,30-44,Male,Pacific,Windows Desktop / Laptop
+39,Yes,No,Undergraduate,No,0,Yes,No,No,0,8,No,0,No,No,No,No,No,No,No,30-44,Male,West South Central,Windows Desktop / Laptop
+40,Yes,No,High School,No,0,Yes,No,No,0,7,No,0,Yes,Yes,Yes,No,Yes,No,Yes,30-44,Male,Pacific,iOS Phone / Tablet
+41,No,Yes,Undergraduate,No,78,Yes,Yes,No,22,0,Yes,0,No,Yes,Yes,Yes,No,No,No,30-44,Male,Middle Atlantic,Android Phone / Tablet
+42,No,No,Undergraduate,No,44,No,No,No,43,49,No,3,No,Yes,No,No,No,No,No,30-44,Male,South Atlantic,Windows Desktop / Laptop
+43,Yes,No,Undergraduate,No,0,Yes,No,No,0,45,No,0,No,Yes,No,No,No,No,No,30-44,Male,South Atlantic,iOS Phone / Tablet
+44,Yes,No,Undergraduate,No,0,Yes,No,No,0,47,No,0,Yes,No,No,No,No,No,Yes,30-44,Male,West South Central,Android Phone / Tablet
+45,No,No,High School,No,0,Yes,Yes,No,0,39,Yes,0,No,No,No,No,No,No,Yes,18-29,Male,Pacific,Android Phone / Tablet
+46,No,No,Masters,No,0,No,No,No,6,27,No,1,No,No,No,No,No,No,No,18-29,Male,Middle Atlantic,Windows Desktop / Laptop
+47,Yes,No,Undergraduate,No,0,Yes,No,No,0,93,No,0,No,No,No,No,No,No,Yes,30-44,Male,East North Central,iOS Phone / Tablet
+48,No,Yes,Phd,No,0,Yes,No,Yes,100,100,Yes,0,Yes,No,Yes,No,No,No,Yes,30-44,Male,Pacific,MacOS Desktop / Laptop
+49,Yes,Yes,High School,No,0,Yes,No,Yes,52,10,No,0,No,Yes,No,No,Yes,No,No,30-44,Male,East South Central,Windows Desktop / Laptop
+50,Yes,Yes,Undergraduate,No,0,Yes,No,No,6,46,No,0,No,Yes,Yes,No,Yes,No,No,18-29,Male,East North Central,iOS Phone / Tablet
+51,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,28,No,0,No,Yes,Yes,No,Yes,No,No,30-44,Male,Mountain,Windows Desktop / Laptop
+52,No,Yes,High School,Yes,60,Yes,Yes,Yes,10,7,Yes,7,No,Yes,Yes,No,Yes,No,Yes,30-44,Male,Middle Atlantic,Android Phone / Tablet
+53,Yes,Yes,High School,No,0,Yes,No,No,0,27,No,0,No,No,Yes,No,No,No,No,18-29,Male,East South Central,Android Phone / Tablet
+54,No,No,Undergraduate,No,0,Yes,No,Yes,32,0,Yes,0,No,No,No,No,No,No,No,30-44,Male,Mountain,iOS Phone / Tablet
+55,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,45-60,Male,South Atlantic,iOS Phone / Tablet
+56,Yes,No,Masters,No,0,Yes,No,Yes,10,32,No,0,No,No,No,No,No,No,Yes,> 60,Male,Middle Atlantic,iOS Phone / Tablet
+57,Yes,No,Undergraduate,Yes,13,Yes,No,Yes,23,39,No,1,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,Windows Desktop / Laptop
+58,Yes,No,Masters,No,0,Yes,No,No,1,2,No,0,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,Windows Desktop / Laptop
+59,Yes,Yes,Masters,Yes,8,Yes,No,No,0,100,No,1,No,No,Yes,No,No,No,No,45-60,Male,Pacific,MacOS Desktop / Laptop
+60,No,No,Undergraduate,No,0,Yes,No,No,0,28,No,0,Yes,No,No,No,No,No,No,45-60,Male,Pacific,Windows Desktop / Laptop
+61,Yes,No,Masters,No,0,Yes,No,No,0,61,No,0,No,No,No,No,No,No,No,45-60,Male,Pacific,iOS Phone / Tablet
+62,Yes,No,Undergraduate,No,0,Yes,No,No,0,50,No,0,No,No,No,No,No,No,Yes,45-60,Male,South Atlantic,Windows Desktop / Laptop
+63,Yes,No,Masters,No,0,Yes,No,No,0,75,No,0,No,No,No,No,No,No,No,45-60,Male,Middle Atlantic,Windows Desktop / Laptop
+64,No,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,Windows Desktop / Laptop
+65,Yes,No,Phd,No,0,Yes,No,No,0,11,No,0,No,No,No,No,No,No,No,45-60,Male,Pacific,MacOS Desktop / Laptop
+66,Yes,No,Undergraduate,No,0,Yes,No,No,0,35,No,0,No,No,No,No,No,No,Yes,> 60,Male,East North Central,Windows Desktop / Laptop
+67,Yes,No,Phd,No,0,Yes,No,No,0,90,No,0,No,No,No,No,No,No,No,> 60,Male,Pacific,iOS Phone / Tablet
+68,No,No,Phd,No,1,Yes,No,No,1,40,Yes,0,Yes,No,No,No,No,No,No,30-44,Male,West South Central,Windows Desktop / Laptop
+69,Yes,No,Phd,No,0,Yes,No,No,0,30,No,0,No,No,No,No,No,No,No,45-60,Male,East North Central,Windows Desktop / Laptop
+70,No,Yes,Undergraduate,Yes,91,Yes,No,Yes,4,62,Yes,5,No,Yes,Yes,No,Yes,No,No,> 60,Male,Pacific,MacOS Desktop / Laptop
+71,Yes,No,Undergraduate,No,1,Yes,No,No,1,14,No,0,No,No,No,No,No,No,No,> 60,Male,East North Central,Windows Desktop / Laptop
+72,No,Yes,Masters,No,0,Yes,No,No,0,78,No,1,No,Yes,Yes,No,No,No,Yes,> 60,Male,New England,Windows Desktop / Laptop
+73,Yes,No,Undergraduate,No,0,Yes,No,No,0,6,No,0,No,No,No,No,No,No,No,45-60,Male,Mountain,Windows Desktop / Laptop
+74,Yes,No,Undergraduate,No,0,Yes,No,No,0,91,No,0,No,Yes,No,No,No,No,No,30-44,Male,Mountain,Android Phone / Tablet
+75,Yes,No,Undergraduate,No,0,Yes,No,Yes,100,44,No,0,No,Yes,No,No,No,No,No,> 60,Male,New England,Windows Desktop / Laptop
+76,Yes,No,Undergraduate,No,0,Yes,No,Yes,53,73,No,0,No,No,No,No,No,No,No,45-60,Male,Middle Atlantic,Windows Desktop / Laptop
+77,No,Yes,Masters,No,0,Yes,No,No,0,100,Yes,0,No,No,Yes,No,No,No,No,> 60,Male,East North Central,Windows Desktop / Laptop
+78,No,No,Undergraduate,No,0,Yes,Yes,No,0,16,No,0,No,No,No,No,No,No,Yes,30-44,Male,,Windows Desktop / Laptop
+79,Yes,No,Undergraduate,No,0,Yes,No,No,9,28,No,0,No,No,Yes,No,No,No,Yes,45-60,Male,Pacific,Windows Desktop / Laptop
+80,Yes,No,Masters,No,0,Yes,No,No,0,14,No,0,No,No,No,No,No,No,No,> 60,Male,Mountain,Windows Desktop / Laptop
+81,No,No,Masters,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,> 60,Male,South Atlantic,Windows Desktop / Laptop
+82,No,Yes,Undergraduate,Yes,14,Yes,No,Yes,100,15,Yes,1,No,Yes,Yes,No,Yes,Yes,No,45-60,Male,South Atlantic,MacOS Desktop / Laptop
+83,Yes,Yes,Phd,No,0,Yes,No,No,0,100,No,0,No,Yes,Yes,No,No,No,No,45-60,Male,Middle Atlantic,iOS Phone / Tablet
+84,Yes,No,High School,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,No,30-44,Male,Pacific,iOS Phone / Tablet
+85,No,No,Masters,No,0,Yes,No,No,0,12,No,0,No,No,No,No,No,No,Yes,> 60,Male,Pacific,Windows Desktop / Laptop
+86,Yes,No,High School,No,0,Yes,No,Yes,1,0,No,0,No,No,No,No,No,No,No,30-44,Male,West South Central,Android Phone / Tablet
+87,No,No,Undergraduate,No,0,Yes,No,No,0,95,No,0,No,No,No,No,Yes,No,No,> 60,Male,West North Central,Android Phone / Tablet
+88,Yes,No,Masters,No,0,Yes,Yes,Yes,6,33,No,0,No,No,No,No,No,No,No,30-44,Male,East North Central,Android Phone / Tablet
+89,No,No,Undergraduate,No,1,Yes,No,No,0,10,Yes,0,No,No,No,No,No,No,Yes,> 60,Male,South Atlantic,Windows Desktop / Laptop
+90,No,No,Phd,No,0,Yes,No,No,0,11,Yes,0,No,No,No,No,No,No,No,> 60,Male,South Atlantic,Other
+91,Yes,No,High School,No,0,Yes,No,No,0,65,No,0,No,No,No,No,No,No,No,18-29,Male,Pacific,iOS Phone / Tablet
+92,Yes,No,Undergraduate,No,0,Yes,No,No,0,86,No,0,No,No,No,No,No,No,No,45-60,Male,New England,iOS Phone / Tablet
+93,Yes,No,Masters,No,0,Yes,No,No,0,50,No,0,No,No,No,No,No,No,No,> 60,Male,East North Central,Windows Desktop / Laptop
+94,Yes,No,Undergraduate,No,0,Yes,No,No,0,92,No,0,No,No,No,No,No,No,No,45-60,Male,Middle Atlantic,Windows Desktop / Laptop
+95,Yes,Yes,Undergraduate,Yes,5,Yes,No,No,0,75,No,1,Yes,No,Yes,No,No,No,No,45-60,Male,Middle Atlantic,Windows Desktop / Laptop
+96,No,No,Undergraduate,No,0,Yes,No,No,0,0,Yes,0,No,No,No,No,No,No,No,45-60,Male,Pacific,Windows Desktop / Laptop
+97,Yes,Yes,Undergraduate,No,0,Yes,No,Yes,48,8,No,0,No,No,Yes,No,No,Yes,No,45-60,Male,Mountain,Windows Desktop / Laptop
+98,Yes,No,Undergraduate,No,0,Yes,No,No,0,27,No,0,No,No,No,No,No,No,No,45-60,Female,East North Central,Windows Desktop / Laptop
+99,Yes,No,Undergraduate,No,0,Yes,No,No,1,100,No,0,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,Windows Desktop / Laptop
+100,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,95,No,0,Yes,Yes,Yes,No,No,No,No,45-60,Female,Mountain,iOS Phone / Tablet
+101,Yes,No,Undergraduate,No,0,Yes,No,No,0,72,No,0,No,No,No,No,No,No,No,> 60,Male,West South Central,iOS Phone / Tablet
+102,No,No,Masters,No,0,Yes,No,No,0,65,Yes,0,No,No,No,No,No,No,No,> 60,Female,South Atlantic,Windows Desktop / Laptop
+103,Yes,No,Undergraduate,No,0,Yes,No,No,1,25,No,1,No,No,No,No,No,No,No,45-60,Male,West South Central,Windows Desktop / Laptop
+104,No,No,High School,No,0,Yes,No,Yes,100,0,Yes,0,No,No,No,No,No,No,Yes,45-60,Female,East South Central,iOS Phone / Tablet
+105,Yes,No,Undergraduate,No,0,Yes,No,No,0,61,No,0,No,No,No,No,No,No,No,> 60,Female,South Atlantic,iOS Phone / Tablet
+106,Yes,No,Undergraduate,No,0,Yes,No,Yes,2,10,Yes,0,No,No,Yes,No,No,No,No,18-29,Male,East North Central,Android Phone / Tablet
+107,Yes,Yes,Masters,No,0,Yes,No,No,0,71,No,0,No,No,Yes,No,No,No,No,30-44,Male,Middle Atlantic,Windows Desktop / Laptop
+108,Yes,No,Undergraduate,No,0,Yes,No,No,0,80,No,0,Yes,No,No,No,No,No,No,45-60,Male,Mountain,Android Phone / Tablet
+109,Yes,No,Undergraduate,No,0,Yes,No,No,0,15,No,0,Yes,No,No,No,No,No,Yes,45-60,Male,Middle Atlantic,Android Phone / Tablet
+110,Yes,No,High School,No,0,Yes,No,No,1,38,No,0,No,No,No,No,No,No,No,> 60,Female,Middle Atlantic,Windows Desktop / Laptop
+111,No,No,High School,No,0,Yes,No,No,0,0,Yes,0,No,No,No,No,No,No,Yes,45-60,Female,New England,Android Phone / Tablet
+112,Yes,No,Undergraduate,No,0,Yes,No,Yes,14,57,No,0,No,No,No,No,No,No,No,> 60,Female,Mountain,iOS Phone / Tablet
+113,No,No,Masters,No,0,Yes,No,No,0,29,No,0,No,No,No,No,No,No,No,> 60,Male,West South Central,iOS Phone / Tablet
+114,Yes,No,Undergraduate,No,1,Yes,No,No,0,35,No,0,No,No,No,No,No,No,No,> 60,Female,Mountain,iOS Phone / Tablet
+115,Yes,No,Undergraduate,No,0,Yes,No,No,0,22,No,0,No,No,No,No,No,No,No,> 60,Male,West South Central,iOS Phone / Tablet
+116,Yes,No,Masters,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,Yes,45-60,Female,Middle Atlantic,Android Phone / Tablet
+117,Yes,No,Undergraduate,No,0,Yes,No,No,0,49,No,0,No,No,No,No,No,No,No,> 60,Female,South Atlantic,iOS Phone / Tablet
+118,Yes,No,Masters,No,0,Yes,No,No,0,80,No,0,No,No,No,No,No,No,No,45-60,Female,South Atlantic,iOS Phone / Tablet
+119,Yes,No,Undergraduate,No,0,Yes,No,No,0,53,No,0,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,iOS Phone / Tablet
+120,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,> 60,Male,Mountain,iOS Phone / Tablet
+121,Yes,No,High School,No,0,Yes,No,No,0,97,No,0,No,Yes,No,No,No,No,No,45-60,Female,New England,iOS Phone / Tablet
+122,No,No,Undergraduate,Yes,21,Yes,No,No,0,25,No,2,No,No,No,No,No,No,Yes,> 60,Female,Middle Atlantic,Windows Desktop / Laptop
+123,No,No,Masters,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,> 60,Female,South Atlantic,iOS Phone / Tablet
+124,Yes,No,Undergraduate,No,0,Yes,No,No,1,56,No,0,No,No,No,No,No,No,Yes,45-60,Male,Middle Atlantic,MacOS Desktop / Laptop
+125,Yes,No,Undergraduate,No,0,No,No,Yes,8,17,No,0,No,No,No,No,No,No,No,45-60,Male,South Atlantic,Android Phone / Tablet
+126,No,No,High School,No,0,Yes,No,No,0,12,Yes,0,No,No,No,No,No,No,No,> 60,Male,East North Central,Windows Desktop / Laptop
+127,Yes,No,Undergraduate,No,0,Yes,No,No,0,12,No,0,No,No,No,No,No,No,No,45-60,Female,Mountain,MacOS Desktop / Laptop
+128,Yes,No,Undergraduate,No,0,Yes,No,Yes,18,19,No,1,No,No,Yes,No,No,No,Yes,> 60,Female,East South Central,Windows Desktop / Laptop
+129,Yes,No,High School,No,0,Yes,No,No,0,21,No,0,No,Yes,No,No,No,No,No,45-60,Female,South Atlantic,Android Phone / Tablet
+130,Yes,No,High School,No,1,Yes,No,No,1,35,No,0,No,No,No,No,No,No,No,> 60,Male,South Atlantic,Windows Desktop / Laptop
+131,Yes,No,Phd,No,0,Yes,No,No,0,9,No,0,No,No,No,No,No,No,Yes,45-60,Female,South Atlantic,Windows Desktop / Laptop
+132,No,No,Undergraduate,No,0,Yes,No,No,0,31,No,0,No,No,No,No,No,No,Yes,> 60,Male,South Atlantic,Windows Desktop / Laptop
+133,Yes,No,Undergraduate,No,0,Yes,No,No,0,1,No,1,Yes,No,No,No,No,No,No,> 60,Male,West North Central,Windows Desktop / Laptop
+134,No,No,High School,No,0,Yes,No,Yes,13,21,No,0,No,No,No,No,No,No,Yes,30-44,Male,East South Central,Android Phone / Tablet
+135,Yes,No,High School,No,99,Yes,Yes,Yes,11,1,No,69,No,No,No,No,Yes,Yes,No,45-60,Female,West South Central,Android Phone / Tablet
+136,No,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,45-60,Female,West South Central,Android Phone / Tablet
+137,Yes,No,Undergraduate,No,0,Yes,No,No,0,27,No,0,No,Yes,No,No,Yes,Yes,Yes,45-60,Female,East South Central,Windows Desktop / Laptop
+138,Yes,No,Undergraduate,No,0,Yes,No,Yes,16,59,No,0,No,No,No,No,No,No,Yes,45-60,Female,South Atlantic,Android Phone / Tablet
+139,No,No,Masters,No,0,Yes,No,No,1,99,Yes,0,No,No,No,No,No,No,No,> 60,Female,Middle Atlantic,Windows Desktop / Laptop
+140,No,No,Undergraduate,No,1,Yes,No,No,1,88,Yes,0,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,Windows Desktop / Laptop
+141,Yes,No,Masters,No,0,Yes,No,No,0,69,No,1,No,No,No,No,No,No,No,45-60,Female,Middle Atlantic,Windows Desktop / Laptop
+142,Yes,No,Undergraduate,No,0,Yes,No,No,0,37,No,0,No,No,No,No,No,No,No,45-60,Female,South Atlantic,iOS Phone / Tablet
+143,Yes,No,Masters,No,0,Yes,No,No,0,80,No,0,No,No,No,No,No,No,No,45-60,Female,Mountain,Windows Desktop / Laptop
+144,No,No,Undergraduate,No,0,Yes,No,Yes,24,67,Yes,0,No,Yes,Yes,No,No,No,Yes,45-60,Female,West South Central,Windows Desktop / Laptop
+145,Yes,No,High School,No,0,Yes,No,No,0,30,No,0,No,No,No,No,No,No,No,45-60,Female,South Atlantic,Windows Desktop / Laptop
+146,Yes,No,High School,No,0,Yes,No,Yes,12,27,No,0,No,No,No,No,No,No,No,45-60,Female,Middle Atlantic,Android Phone / Tablet
+147,No,No,Undergraduate,No,0,Yes,No,No,1,43,Yes,0,No,No,No,No,No,No,No,> 60,Male,East North Central,Windows Desktop / Laptop
+148,Yes,No,Masters,No,0,Yes,No,No,0,70,No,0,No,No,No,No,No,No,No,45-60,Female,Mountain,Windows Desktop / Laptop
+149,Yes,No,High School,No,0,Yes,No,No,0,16,No,0,No,No,No,No,No,No,No,45-60,Male,Middle Atlantic,iOS Phone / Tablet
+150,Yes,Yes,Masters,No,0,Yes,No,No,0,75,No,0,No,No,No,No,No,No,No,45-60,Female,East South Central,MacOS Desktop / Laptop
+151,Yes,No,High School,No,0,Yes,No,Yes,48,10,No,0,No,No,No,No,No,No,No,45-60,Female,South Atlantic,Windows Desktop / Laptop
+152,Yes,No,Phd,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,Yes,45-60,Male,West South Central,iOS Phone / Tablet
+153,Yes,No,Undergraduate,No,0,Yes,No,No,0,80,No,0,No,No,No,No,No,No,No,45-60,Male,West South Central,Windows Desktop / Laptop
+154,Yes,No,High School,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,No,45-60,Female,West South Central,iOS Phone / Tablet
+155,Yes,No,Undergraduate,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,No,> 60,Male,East North Central,MacOS Desktop / Laptop
+156,Yes,No,Undergraduate,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,Windows Desktop / Laptop
+157,Yes,No,High School,No,1,Yes,No,No,0,0,No,3,No,No,No,No,No,No,No,45-60,Female,South Atlantic,Android Phone / Tablet
+158,Yes,No,Masters,No,0,Yes,No,No,0,0,No,0,Yes,No,No,No,No,No,No,45-60,Female,Pacific,iOS Phone / Tablet
+159,Yes,No,Phd,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,Yes,45-60,Female,East North Central,iOS Phone / Tablet
+160,No,No,Undergraduate,No,0,Yes,No,No,0,16,No,0,No,No,No,No,No,No,No,> 60,Female,South Atlantic,iOS Phone / Tablet
+161,No,Yes,Undergraduate,Yes,2,No,No,Yes,100,10,Yes,5,Yes,Yes,Yes,Yes,Yes,Yes,Yes,45-60,Female,New England,Android Phone / Tablet
+162,Yes,Yes,Undergraduate,No,0,Yes,Yes,No,0,59,No,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,45-60,Female,South Atlantic,iOS Phone / Tablet
+163,Yes,No,Undergraduate,No,0,Yes,No,No,0,92,No,0,No,No,No,No,No,No,No,45-60,Female,East North Central,iOS Phone / Tablet
+164,No,No,Undergraduate,No,0,Yes,No,No,0,0,Yes,0,No,No,No,No,No,No,No,> 60,Female,East North Central,Windows Desktop / Laptop
+165,Yes,No,Masters,No,0,Yes,No,No,0,7,No,0,No,No,No,No,No,No,No,45-60,Male,East North Central,iOS Phone / Tablet
+166,Yes,No,High School,No,0,Yes,No,No,0,35,No,0,No,No,No,No,No,No,No,45-60,Male,South Atlantic,Windows Desktop / Laptop
+167,Yes,No,Masters,No,0,Yes,No,No,0,7,No,0,No,No,No,No,No,No,No,45-60,Female,New England,Windows Desktop / Laptop
+168,Yes,No,Undergraduate,No,0,Yes,No,No,0,50,No,0,No,Yes,No,No,Yes,No,No,30-44,Male,West North Central,Android Phone / Tablet
+169,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,No,30-44,Male,South Atlantic,iOS Phone / Tablet
+170,No,Yes,High School,No,0,Yes,No,Yes,100,0,Yes,0,Yes,Yes,No,Yes,No,Yes,No,45-60,Male,Mountain,Android Phone / Tablet
+171,Yes,No,Undergraduate,No,0,Yes,No,No,0,19,No,0,No,No,No,No,No,No,No,45-60,Female,Mountain,Android Phone / Tablet
+172,No,No,Masters,No,0,Yes,No,No,0,12,Yes,0,No,No,No,No,No,No,No,> 60,Male,Pacific,Other
+173,No,No,Undergraduate,No,0,Yes,No,No,0,42,No,0,No,No,No,No,No,No,No,> 60,Female,Middle Atlantic,iOS Phone / Tablet
+174,No,No,Undergraduate,No,0,Yes,No,No,0,10,Yes,0,No,No,Yes,No,No,No,No,45-60,Male,Mountain,Android Phone / Tablet
+175,No,No,Undergraduate,No,0,Yes,No,No,0,53,No,0,No,No,No,No,No,No,No,> 60,Male,South Atlantic,Android Phone / Tablet
+176,Yes,No,Phd,No,0,Yes,No,No,0,16,No,0,Yes,No,No,No,No,No,No,45-60,Male,East North Central,MacOS Desktop / Laptop
+177,No,No,Masters,No,0,Yes,No,No,0,22,No,0,No,No,No,No,No,No,No,> 60,Female,South Atlantic,MacOS Desktop / Laptop
+178,Yes,No,Masters,No,0,Yes,No,No,0,13,No,0,No,No,No,No,No,No,No,45-60,Female,East North Central,Android Phone / Tablet
+179,Yes,No,Undergraduate,No,1,Yes,No,No,2,0,No,1,No,No,No,No,No,No,No,45-60,Female,South Atlantic,Windows Desktop / Laptop
+180,No,Yes,High School,Yes,2,Yes,Yes,Yes,9,19,Yes,20,Yes,Yes,Yes,Yes,No,No,No,18-29,Male,Pacific,Android Phone / Tablet
+181,Yes,No,Undergraduate,No,0,Yes,No,No,0,40,No,0,No,No,No,No,No,No,No,> 60,Male,South Atlantic,Windows Desktop / Laptop
+182,Yes,No,Masters,No,0,Yes,No,No,0,96,No,0,No,Yes,No,No,No,No,No,45-60,Female,Middle Atlantic,iOS Phone / Tablet
+183,Yes,No,Undergraduate,No,0,Yes,No,No,0,55,No,0,No,No,No,No,No,No,No,18-29,Male,Pacific,Android Phone / Tablet
+184,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,Yes,45-60,Male,New England,Windows Desktop / Laptop
+185,No,No,Undergraduate,No,6,Yes,No,No,3,44,Yes,0,No,No,No,No,No,No,Yes,> 60,Female,New England,Windows Desktop / Laptop
+186,Yes,No,High School,No,0,Yes,No,No,7,32,No,0,No,No,No,Yes,No,No,Yes,30-44,Male,Pacific,Android Phone / Tablet
+187,No,No,Masters,No,0,Yes,No,No,0,60,No,0,No,No,No,No,No,No,No,> 60,Male,Pacific,MacOS Desktop / Laptop
+188,Yes,No,Undergraduate,No,0,Yes,No,No,0,23,No,0,No,No,No,No,No,No,No,45-60,Female,West South Central,Android Phone / Tablet
+189,Yes,No,Masters,No,1,Yes,No,No,1,19,No,0,No,Yes,No,Yes,No,No,Yes,> 60,Male,South Atlantic,Windows Desktop / Laptop
+190,Yes,No,Undergraduate,No,0,Yes,No,No,12,27,No,0,No,No,No,No,No,No,No,45-60,Female,Middle Atlantic,Android Phone / Tablet
+191,Yes,No,Phd,No,0,Yes,No,No,1,9,No,0,No,No,No,No,No,No,No,> 60,Female,Middle Atlantic,Windows Desktop / Laptop
+192,No,No,Undergraduate,No,0,Yes,No,Yes,3,0,Yes,0,No,No,No,No,No,No,No,45-60,Male,South Atlantic,iOS Phone / Tablet
+193,No,No,Undergraduate,No,0,Yes,No,No,0,27,No,0,No,No,No,No,No,No,No,45-60,Female,West South Central,iOS Phone / Tablet
+194,No,No,Undergraduate,No,0,Yes,Yes,Yes,100,4,Yes,0,No,No,No,No,No,No,No,45-60,Male,Middle Atlantic,Windows Desktop / Laptop
+195,No,No,Masters,No,0,Yes,No,No,0,46,No,0,No,No,No,No,No,No,No,> 60,Female,South Atlantic,Android Phone / Tablet
+196,Yes,No,Masters,No,0,Yes,No,No,0,73,No,0,No,No,No,No,No,No,Yes,30-44,Female,New England,Windows Desktop / Laptop
+197,No,Yes,Undergraduate,Yes,100,Yes,No,Yes,18,20,Yes,4,No,Yes,Yes,No,No,No,No,18-29,Female,Middle Atlantic,iOS Phone / Tablet
+198,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,17,No,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,45-60,Female,South Atlantic,Android Phone / Tablet
+199,Yes,No,High School,No,0,Yes,No,No,0,36,No,0,No,No,No,No,No,No,No,18-29,Female,East North Central,Android Phone / Tablet
+200,Yes,No,Masters,No,0,Yes,No,No,0,75,No,0,No,No,No,No,No,No,No,> 60,Male,West South Central,Android Phone / Tablet
+201,No,No,High School,No,0,Yes,Yes,No,2,4,Yes,0,No,Yes,Yes,Yes,No,No,No,30-44,Female,East South Central,Android Phone / Tablet
+202,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,36,No,0,No,No,Yes,Yes,No,No,Yes,45-60,Female,West South Central,iOS Phone / Tablet
+203,No,No,High School,No,0,Yes,Yes,No,3,23,No,0,No,Yes,No,No,No,No,No,30-44,Female,Middle Atlantic,Android Phone / Tablet
+204,Yes,No,Masters,No,0,Yes,No,No,0,21,No,0,No,No,No,No,No,No,Yes,30-44,Male,,Windows Desktop / Laptop
+205,Yes,No,High School,No,0,Yes,No,No,0,56,No,0,No,No,No,No,No,No,No,45-60,Female,East South Central,Windows Desktop / Laptop
+206,Yes,No,Undergraduate,No,0,Yes,Yes,No,0,15,No,0,Yes,No,No,No,No,No,No,18-29,Female,East North Central,Android Phone / Tablet
+207,Yes,No,Undergraduate,No,0,Yes,No,No,0,96,No,0,No,No,Yes,No,No,No,No,30-44,Female,South Atlantic,iOS Phone / Tablet
+208,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,23,No,0,Yes,No,Yes,Yes,No,No,No,18-29,Female,Pacific,Windows Desktop / Laptop
+209,Yes,No,Undergraduate,No,0,Yes,No,No,1,39,Yes,0,No,No,No,No,No,No,Yes,30-44,Female,South Atlantic,Android Phone / Tablet
+210,No,No,High School,No,0,Yes,No,Yes,97,34,No,0,No,Yes,No,No,No,Yes,No,30-44,Female,New England,Android Phone / Tablet
+211,Yes,No,High School,No,0,No,No,No,0,0,No,0,No,No,No,No,No,No,No,45-60,Female,East North Central,Windows Desktop / Laptop
+212,Yes,No,Phd,No,0,Yes,No,No,0,81,No,0,Yes,Yes,Yes,No,No,No,Yes,30-44,Female,South Atlantic,MacOS Desktop / Laptop
+213,Yes,No,Masters,No,0,Yes,Yes,No,0,33,No,0,No,Yes,No,No,No,No,No,18-29,Female,Middle Atlantic,Android Phone / Tablet
+214,Yes,No,Undergraduate,No,0,Yes,No,No,0,25,No,0,No,No,No,No,No,No,No,30-44,Female,East North Central,Android Phone / Tablet
+215,Yes,Yes,Undergraduate,Yes,42,Yes,No,No,0,41,No,1,No,Yes,Yes,No,No,No,Yes,30-44,Female,New England,Windows Desktop / Laptop
+216,No,No,Masters,No,0,Yes,No,No,0,20,Yes,0,No,No,No,No,No,No,No,> 60,Female,West South Central,iOS Phone / Tablet
+217,Yes,Yes,Masters,No,0,Yes,No,No,0,100,No,0,No,No,No,No,No,No,Yes,30-44,Female,New England,iOS Phone / Tablet
+218,No,No,Undergraduate,No,0,Yes,No,No,0,0,Yes,0,No,Yes,No,No,No,No,No,45-60,Female,New England,Windows Desktop / Laptop
+219,Yes,No,Undergraduate,No,0,Yes,No,Yes,10,21,No,0,No,No,No,No,No,No,No,45-60,Female,West South Central,Windows Desktop / Laptop
+220,Yes,Yes,High School,Yes,100,Yes,No,No,0,95,No,100,No,Yes,Yes,Yes,Yes,Yes,No,30-44,Female,Mountain,iOS Phone / Tablet
+221,Yes,Yes,Undergraduate,Yes,14,Yes,No,Yes,18,14,No,1,No,Yes,No,No,Yes,No,Yes,18-29,Female,East North Central,Android Phone / Tablet
+222,Yes,No,Undergraduate,No,0,Yes,No,No,0,56,No,0,No,No,No,No,No,No,No,18-29,Female,New England,iOS Phone / Tablet
+223,Yes,No,High School,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,No,45-60,Female,East North Central,Windows Desktop / Laptop
+224,Yes,No,Undergraduate,No,0,Yes,No,No,0,57,No,0,No,No,No,No,No,No,No,30-44,Female,South Atlantic,iOS Phone / Tablet
+225,Yes,No,Undergraduate,No,0,Yes,No,No,0,55,No,0,No,No,No,No,No,No,No,> 60,Male,Middle Atlantic,Windows Desktop / Laptop
+226,Yes,No,High School,No,0,Yes,No,No,0,42,No,0,No,No,No,No,No,No,No,30-44,Female,Pacific,iOS Phone / Tablet
+227,No,Yes,High School,No,0,Yes,Yes,Yes,5,0,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,18-29,Female,West South Central,Android Phone / Tablet
+228,No,No,High School,No,0,Yes,No,No,0,25,Yes,0,No,Yes,No,No,No,No,No,> 60,Male,Mountain,MacOS Desktop / Laptop
+229,Yes,No,High School,No,0,Yes,No,No,0,25,No,0,No,No,No,No,No,No,No,30-44,Female,South Atlantic,Android Phone / Tablet
+230,Yes,No,Undergraduate,No,0,Yes,No,Yes,1,19,No,0,No,No,No,No,No,No,No,> 60,Female,New England,Android Phone / Tablet
+231,No,Yes,Undergraduate,No,0,Yes,No,Yes,30,7,Yes,0,No,Yes,Yes,Yes,Yes,No,Yes,45-60,Female,Middle Atlantic,iOS Phone / Tablet
+232,Yes,No,Phd,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,Yes,30-44,Female,Middle Atlantic,iOS Phone / Tablet
+233,Yes,Yes,Masters,No,0,Yes,No,No,0,18,No,0,No,Yes,No,No,No,No,Yes,45-60,Female,South Atlantic,Android Phone / Tablet
+234,No,No,Undergraduate,No,0,Yes,No,No,0,42,No,0,Yes,Yes,Yes,Yes,No,Yes,Yes,30-44,Female,Middle Atlantic,iOS Phone / Tablet
+235,Yes,No,High School,No,3,Yes,No,Yes,3,100,Yes,1,No,Yes,No,No,No,No,No,30-44,Female,West North Central,Android Phone / Tablet
+236,No,No,Undergraduate,No,0,Yes,No,No,0,100,Yes,0,No,No,No,No,No,No,No,> 60,Female,West North Central,Windows Desktop / Laptop
+237,Yes,Yes,Undergraduate,No,0,Yes,No,Yes,12,33,No,0,Yes,Yes,Yes,Yes,Yes,No,No,30-44,Female,East South Central,Windows Desktop / Laptop
+238,No,No,High School,No,0,Yes,No,Yes,100,19,Yes,0,No,Yes,Yes,No,Yes,No,No,30-44,Female,Pacific,Android Phone / Tablet
+239,No,No,Masters,No,0,Yes,No,No,0,23,No,0,No,No,No,No,No,No,No,> 60,Male,East North Central,MacOS Desktop / Laptop
+240,No,No,High School,No,0,Yes,No,No,0,30,Yes,0,No,No,No,No,No,No,Yes,> 60,Female,East North Central,Windows Desktop / Laptop
+241,No,No,Undergraduate,No,0,No,No,No,0,29,Yes,0,No,No,No,No,No,No,No,> 60,Female,East North Central,Windows Desktop / Laptop
+242,Yes,Yes,Masters,No,0,Yes,No,No,0,10,No,1,Yes,Yes,Yes,No,No,No,Yes,30-44,Female,West South Central,Windows Desktop / Laptop
+243,Yes,No,Masters,No,0,Yes,No,Yes,5,70,No,0,No,No,No,No,No,No,No,> 60,Female,East North Central,Windows Desktop / Laptop
+244,Yes,No,Undergraduate,No,0,Yes,No,No,0,45,No,0,No,No,No,No,No,No,No,30-44,Female,South Atlantic,iOS Phone / Tablet
+245,No,Yes,High School,No,0,No,Yes,Yes,6,0,Yes,0,No,Yes,Yes,Yes,No,No,No,30-44,Female,Mountain,Android Phone / Tablet
+246,Yes,No,High School,No,0,Yes,No,No,0,20,No,0,No,No,No,No,No,No,Yes,> 60,Female,West South Central,Android Phone / Tablet
+247,No,No,Undergraduate,No,0,Yes,No,No,0,20,Yes,0,No,Yes,No,No,No,No,No,45-60,Male,East North Central,MacOS Desktop / Laptop
+248,No,Yes,Masters,No,0,Yes,No,No,0,23,Yes,0,No,No,Yes,No,No,No,Yes,> 60,Female,South Atlantic,Windows Desktop / Laptop
+249,Yes,No,Undergraduate,No,0,Yes,No,Yes,18,40,No,0,Yes,No,Yes,No,No,Yes,Yes,30-44,Female,South Atlantic,Android Phone / Tablet
+250,Yes,No,High School,No,0,Yes,No,No,0,74,No,0,No,No,No,No,No,No,No,> 60,Female,East North Central,iOS Phone / Tablet
+251,No,Yes,High School,Yes,5,No,No,No,0,0,Yes,5,No,No,No,No,No,No,No,30-44,Female,East North Central,iOS Phone / Tablet
+252,Yes,No,Masters,No,0,Yes,No,No,0,40,No,0,No,No,No,No,No,No,No,30-44,Male,East South Central,iOS Phone / Tablet
+253,Yes,No,Undergraduate,No,0,Yes,No,No,0,41,No,0,No,Yes,No,No,No,No,No,45-60,Female,South Atlantic,iOS Phone / Tablet
+254,No,No,Masters,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,No,> 60,Female,Middle Atlantic,iOS Phone / Tablet
+255,No,Yes,Undergraduate,No,1,Yes,No,No,0,0,Yes,0,Yes,Yes,No,No,Yes,No,Yes,> 60,Male,West South Central,MacOS Desktop / Laptop
+256,Yes,No,High School,No,0,Yes,Yes,Yes,12,31,No,0,No,No,No,No,No,No,No,18-29,Female,Mountain,Windows Desktop / Laptop
+257,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,Yes,0,No,No,No,No,No,No,No,> 60,Female,East North Central,iOS Phone / Tablet
+258,Yes,No,Undergraduate,No,0,Yes,No,No,0,70,No,0,No,No,No,No,No,No,No,> 60,Male,East North Central,iOS Phone / Tablet
+259,Yes,No,Undergraduate,No,0,Yes,No,No,0,6,No,0,No,No,No,No,No,No,Yes,45-60,Male,South Atlantic,iOS Phone / Tablet
+260,Yes,No,Phd,No,0,Yes,No,Yes,24,100,No,0,No,No,No,No,No,No,No,45-60,Female,South Atlantic,iOS Phone / Tablet
+261,Yes,No,Undergraduate,No,0,Yes,No,No,0,4,No,0,No,No,No,No,No,No,No,30-44,Female,Middle Atlantic,Windows Desktop / Laptop
+262,No,Yes,Undergraduate,No,0,Yes,Yes,No,0,0,No,0,No,Yes,Yes,No,No,No,No,18-29,Female,East South Central,Windows Desktop / Laptop
+263,No,No,Undergraduate,No,2,Yes,No,No,2,50,Yes,0,No,No,No,No,Yes,No,No,> 60,Female,East North Central,Windows Desktop / Laptop
+264,No,No,High School,No,0,Yes,No,Yes,100,46,Yes,0,No,Yes,No,No,No,No,Yes,30-44,Female,Pacific,Android Phone / Tablet
+265,No,Yes,Undergraduate,No,0,Yes,No,Yes,24,50,Yes,0,No,Yes,Yes,No,Yes,No,No,45-60,Female,West South Central,iOS Phone / Tablet
+266,No,No,Undergraduate,Yes,0,Yes,No,No,1,10,Yes,69,Yes,Yes,Yes,Yes,Yes,Yes,Yes,30-44,Female,Pacific,Android Phone / Tablet
+267,Yes,Yes,Undergraduate,No,0,Yes,Yes,No,0,11,No,0,Yes,Yes,Yes,Yes,No,Yes,Yes,18-29,Female,Mountain,MacOS Desktop / Laptop
+268,Yes,No,Undergraduate,No,0,Yes,No,No,0,93,No,0,No,No,No,No,No,No,No,30-44,Female,Pacific,Windows Desktop / Laptop
+269,No,No,Undergraduate,No,0,Yes,No,No,0,9,Yes,0,No,No,No,No,No,No,No,> 60,Female,East South Central,Windows Desktop / Laptop
+270,Yes,Yes,Undergraduate,Yes,28,Yes,No,Yes,59,16,No,1,Yes,Yes,Yes,Yes,Yes,Yes,Yes,18-29,Female,South Atlantic,Android Phone / Tablet
+271,Yes,No,Undergraduate,No,0,Yes,No,Yes,2,30,No,0,Yes,No,No,No,No,No,No,30-44,Female,South Atlantic,Windows Desktop / Laptop
+272,Yes,No,Undergraduate,No,0,Yes,No,No,0,1,No,0,No,No,No,No,No,No,No,45-60,Female,South Atlantic,Windows Desktop / Laptop
+273,Yes,No,Undergraduate,No,0,Yes,Yes,No,0,55,No,0,No,No,No,No,No,No,No,18-29,Female,Middle Atlantic,iOS Phone / Tablet
+274,Yes,No,Undergraduate,No,0,Yes,No,No,0,54,Yes,0,No,No,No,No,No,No,No,> 60,Male,New England,Windows Desktop / Laptop
+275,No,Yes,Undergraduate,No,0,Yes,No,Yes,24,49,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,30-44,Female,East North Central,Android Phone / Tablet
+276,Yes,No,High School,No,0,Yes,No,No,0,35,No,0,No,Yes,No,No,Yes,No,No,30-44,Female,Middle Atlantic,MacOS Desktop / Laptop
+277,Yes,Yes,High School,No,0,Yes,Yes,Yes,30,17,No,0,No,Yes,Yes,Yes,No,Yes,No,30-44,Female,West South Central,Android Phone / Tablet
+278,Yes,Yes,Masters,Yes,1,Yes,Yes,Yes,20,25,No,1,Yes,Yes,Yes,No,No,Yes,Yes,30-44,Male,Pacific,Windows Desktop / Laptop
+279,Yes,No,Undergraduate,No,0,Yes,No,No,0,42,No,0,No,No,No,No,No,No,No,18-29,Male,Pacific,iOS Phone / Tablet
+280,Yes,No,Masters,No,0,Yes,No,No,1,82,No,1,No,Yes,No,No,No,No,No,30-44,Female,Middle Atlantic,Windows Desktop / Laptop
+281,Yes,No,High School,No,0,Yes,No,No,0,23,No,0,No,Yes,Yes,Yes,Yes,No,Yes,18-29,Female,West North Central,iOS Phone / Tablet
+282,No,No,High School,No,0,Yes,No,No,22,25,Yes,0,No,Yes,Yes,Yes,Yes,No,Yes,45-60,Female,East North Central,Windows Desktop / Laptop
+283,No,Yes,Undergraduate,No,0,Yes,No,Yes,28,0,Yes,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,30-44,Female,East North Central,Android Phone / Tablet
+284,Yes,Yes,High School,Yes,15,Yes,No,No,3,54,No,3,No,Yes,No,Yes,No,Yes,No,30-44,Female,Middle Atlantic,Android Phone / Tablet
+285,Yes,No,Masters,No,0,Yes,No,No,0,75,No,0,No,No,No,No,No,No,No,45-60,Female,Middle Atlantic,Android Phone / Tablet
+286,Yes,Yes,Undergraduate,No,0,Yes,No,Yes,100,36,No,0,Yes,No,No,No,No,No,Yes,> 60,Female,Middle Atlantic,iOS Phone / Tablet
+287,No,Yes,High School,No,0,Yes,No,Yes,30,19,Yes,0,Yes,Yes,Yes,Yes,Yes,No,Yes,30-44,Female,West South Central,Android Phone / Tablet
+288,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,30,No,0,No,Yes,Yes,No,No,No,Yes,30-44,Female,Pacific,iOS Phone / Tablet
+289,Yes,Yes,Undergraduate,Yes,10,Yes,No,No,0,50,No,1,No,Yes,Yes,No,No,No,No,30-44,Female,Middle Atlantic,Android Phone / Tablet
+290,No,No,High School,No,0,No,No,No,0,0,Yes,0,No,Yes,No,No,No,No,No,18-29,Female,South Atlantic,Android Phone / Tablet
+291,Yes,No,Phd,No,0,Yes,No,No,0,83,No,0,No,No,No,No,No,No,No,45-60,Female,South Atlantic,iOS Phone / Tablet
+292,Yes,No,High School,No,0,Yes,No,No,0,0,No,0,No,No,No,No,No,No,Yes,45-60,Female,East North Central,Android Phone / Tablet
+293,No,No,Undergraduate,No,0,Yes,No,Yes,9,55,Yes,0,No,No,No,No,No,No,No,18-29,Female,East North Central,iOS Phone / Tablet
+294,No,Yes,Undergraduate,No,0,Yes,No,Yes,52,14,Yes,0,Yes,Yes,Yes,No,Yes,Yes,Yes,30-44,Female,East South Central,Android Phone / Tablet
+295,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,18,No,0,No,Yes,Yes,No,Yes,Yes,Yes,30-44,Female,East North Central,Windows Desktop / Laptop
+296,Yes,No,Undergraduate,No,0,Yes,No,Yes,2,51,No,0,No,No,No,No,No,No,Yes,45-60,Female,Middle Atlantic,Android Phone / Tablet
+297,No,No,High School,No,0,Yes,Yes,No,0,50,Yes,0,Yes,Yes,Yes,No,No,No,No,18-29,Female,East South Central,Windows Desktop / Laptop
+298,Yes,Yes,Undergraduate,No,0,Yes,No,Yes,36,20,No,0,No,Yes,Yes,Yes,Yes,No,Yes,30-44,Female,West South Central,Android Phone / Tablet
+299,No,No,Undergraduate,No,0,Yes,No,No,0,31,Yes,0,No,No,No,No,No,No,Yes,> 60,Female,Mountain,Android Phone / Tablet
+300,Yes,No,Undergraduate,No,0,Yes,No,No,0,50,No,0,No,No,No,No,No,No,Yes,18-29,Female,East South Central,Android Phone / Tablet
+301,Yes,No,High School,No,0,Yes,No,No,0,44,Yes,0,No,No,No,No,No,No,No,45-60,Male,East North Central,Windows Desktop / Laptop
+302,No,No,High School,No,0,No,Yes,Yes,28,0,Yes,0,No,No,No,No,No,No,No,30-44,Female,Pacific,Android Phone / Tablet
+303,No,No,Masters,No,0,Yes,No,No,0,38,Yes,0,No,No,No,No,No,No,No,> 60,Female,Pacific,MacOS Desktop / Laptop
+304,Yes,Yes,Undergraduate,No,0,Yes,Yes,No,0,2,No,0,Yes,Yes,Yes,Yes,Yes,Yes,Yes,18-29,Female,West North Central,Windows Desktop / Laptop
+305,Yes,No,Undergraduate,No,0,Yes,Yes,Yes,24,37,No,0,No,No,No,No,No,No,No,18-29,Female,Pacific,iOS Phone / Tablet
+306,No,Yes,High School,Yes,27,Yes,No,Yes,73,12,Yes,4,Yes,No,Yes,No,Yes,No,Yes,45-60,Female,East North Central,Android Phone / Tablet
+307,Yes,No,Undergraduate,No,0,Yes,No,Yes,5,47,No,0,No,No,No,No,No,No,No,18-29,Female,West South Central,Android Phone / Tablet
+308,Yes,No,Undergraduate,No,0,Yes,No,No,0,35,No,0,No,No,No,No,No,No,No,18-29,Female,Mountain,Android Phone / Tablet
+309,Yes,No,High School,No,0,Yes,No,No,0,23,No,0,No,No,No,No,No,No,Yes,30-44,Female,Pacific,Windows Desktop / Laptop
+310,No,Yes,Undergraduate,Yes,8,Yes,No,Yes,13,17,Yes,1,No,Yes,Yes,Yes,Yes,No,Yes,30-44,Female,West North Central,Android Phone / Tablet
+311,No,Yes,Undergraduate,Yes,43,Yes,No,No,0,12,Yes,6,No,No,No,No,No,No,Yes,> 60,Female,Middle Atlantic,Windows Desktop / Laptop
+312,No,No,High School,No,0,Yes,No,Yes,66,0,Yes,0,No,Yes,No,No,Yes,No,No,30-44,Female,Middle Atlantic,Android Phone / Tablet
+313,Yes,No,Undergraduate,No,0,Yes,No,No,0,100,No,0,No,No,Yes,No,No,No,No,30-44,Female,East South Central,iOS Phone / Tablet
+314,Yes,No,Undergraduate,No,0,Yes,No,No,0,25,No,0,No,No,Yes,No,No,No,No,45-60,Male,Mountain,Windows Desktop / Laptop
+315,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,46,No,0,No,Yes,Yes,No,No,No,No,30-44,Female,Pacific,iOS Phone / Tablet
+316,Yes,No,Undergraduate,No,0,Yes,No,No,0,25,No,0,No,No,No,No,No,No,Yes,45-60,Male,South Atlantic,Windows Desktop / Laptop
+317,Yes,No,Undergraduate,No,0,Yes,No,No,0,35,No,0,No,Yes,Yes,No,No,No,No,30-44,Female,East North Central,iOS Phone / Tablet
+318,Yes,Yes,Undergraduate,No,0,Yes,No,Yes,7,24,Yes,1,Yes,Yes,Yes,No,No,No,Yes,18-29,Female,West South Central,Windows Desktop / Laptop
+319,Yes,No,Undergraduate,No,0,Yes,No,No,0,54,No,0,No,No,No,No,No,No,Yes,45-60,Female,Middle Atlantic,iOS Phone / Tablet
+320,Yes,No,High School,No,0,Yes,Yes,No,0,36,No,0,No,No,No,Yes,No,No,Yes,30-44,Female,South Atlantic,iOS Phone / Tablet
+321,Yes,No,Masters,No,0,Yes,No,No,0,24,No,0,No,No,No,No,No,No,No,> 60,Male,East North Central,Windows Desktop / Laptop
+322,No,Yes,High School,Yes,1,Yes,No,No,0,33,Yes,2,No,Yes,Yes,Yes,Yes,No,Yes,18-29,Female,West North Central,Android Phone / Tablet
+323,No,No,High School,No,0,Yes,Yes,Yes,24,18,Yes,0,No,No,No,No,No,No,No,18-29,Female,West North Central,Android Phone / Tablet
+324,Yes,Yes,Undergraduate,No,0,Yes,Yes,Yes,14,30,No,0,No,Yes,Yes,Yes,Yes,No,No,18-29,Female,Mountain,Windows Desktop / Laptop
+325,Yes,Yes,Masters,No,0,Yes,No,Yes,15,50,No,0,No,Yes,Yes,No,No,No,No,18-29,Female,Middle Atlantic,iOS Phone / Tablet
+326,Yes,No,Undergraduate,No,0,Yes,No,Yes,45,10,No,0,No,No,No,No,No,No,No,30-44,Female,Middle Atlantic,iOS Phone / Tablet
+327,Yes,No,Undergraduate,No,0,Yes,No,No,0,35,No,0,No,No,No,No,No,No,No,45-60,Female,East North Central,Android Phone / Tablet
+328,Yes,No,Undergraduate,No,0,Yes,No,Yes,36,42,No,0,No,No,No,No,No,No,No,18-29,Female,Pacific,iOS Phone / Tablet
+329,No,Yes,Undergraduate,No,0,Yes,No,No,0,40,Yes,0,No,Yes,No,No,No,No,No,18-29,Female,Mountain,iOS Phone / Tablet
+330,No,No,High School,No,0,Yes,No,No,0,0,Yes,0,No,No,No,No,No,No,Yes,45-60,Female,Mountain,Android Phone / Tablet
+331,Yes,No,Undergraduate,No,0,Yes,Yes,No,0,62,No,0,No,No,No,No,No,No,No,18-29,Male,Pacific,Windows Desktop / Laptop
+332,Yes,No,Undergraduate,No,0,Yes,No,No,0,0,No,1,No,No,No,No,No,No,No,> 60,Female,West North Central,Windows Desktop / Laptop
+333,No,Yes,Undergraduate,Yes,1,Yes,Yes,Yes,30,12,Yes,3,Yes,Yes,Yes,Yes,Yes,Yes,Yes,18-29,Female,West South Central,Android Phone / Tablet
+334,Yes,Yes,Undergraduate,No,0,Yes,No,No,0,25,No,0,No,Yes,Yes,No,No,No,No,18-29,Female,Pacific,Android Phone / Tablet

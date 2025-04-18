@@ -59,8 +59,6 @@ Explores how unemployment impacts internet access and the associated mental heal
 ## 🧪 Usage
 1. Import the dataset into your MySQL.
 2. Run the provided SQL scripts in sequence:
-
-I have downloaded this dataset from Kaggle.com named as "Unemployment and mental illness survey" by Michael Corley, MBA, LSSBB, CPM.
    - Create the database
    - Use the database
    - Execute scenario-based queries
@@ -74,4 +72,5 @@ I have downloaded this dataset from Kaggle.com named as "Unemployment and mental
 - **Device usage** patterns may contribute to compulsive behaviors and poor focus.
 
 ---
-
+# About the dataset
+I have downloaded this dataset from Kaggle.com named as "Unemployment and mental illness survey" by Michael Corley, MBA, LSSBB, CPM.
